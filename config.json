@@ -1,0 +1,12 @@
+{
+  "mariaDbDataSource": {
+    "driverName": "mariadb",
+    "addr": "localhost",
+    "port": "3306",
+    "database": "next-in-line",
+    "user": "dev",
+    "password": "12345678",
+    "enableAutoMigrate": true,
+    "retries": 3
+  }
+}
